@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="424px" preserveAspectRatio="none" style="width:760px;height:424px;background:#FFFFFF;" version="1.1" viewBox="0 0 760 424" width="760px" zoomAndPan="magnify"><defs/><g><rect fill="none" height="26.2969" id="_title" style="stroke:none;stroke-width:1.0;" width="131" x="307.5" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="121" x="312.5" y="22.9951">RecoMenue構成</text><!--MD5=[1e971109cc0cd0f6ed93a531106ac738]
+cluster FrontEnd--><g id="cluster_FrontEnd"><rect fill="#FFFFFF" height="202" style="stroke:#5A6B86;stroke-width:1.0;" width="228" x="7" y="83.9059"/><image height="32" width="32" x="10" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAoElEQVR4Xu2WoQ2AMBBFWZMFMHjCAgTHBNWMgMehkQhCAoItSmp/GnpfwKXJiWea18tLxaVFWXdekwIP/sYCRAFVM/i2dxThDs6JIQpw4+S3/fLzsooIbriDc2KIA6QDWT+/gOO8X0E/BR0ggfHzC8AnR9BPQQdIYPz8AnDpIOinoANw5SLop6ADJDC+BViABVhAPgGqn1L1b/mXWIB6wANO/Z4cQbYDIAAAAABJRU5ErkJggg==" y="85.9059"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="10" x="42" y="114.6041">  </text><text fill="#5A6B86" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="73" x="52" y="114.6041">FrontEnd</text></g><!--MD5=[6f5ca303b11f66b6f76d1da6c5fb2617]
+cluster ex--><g id="cluster_ex"><rect fill="#FFFFFF" height="119" style="stroke:#5A6B86;stroke-width:1.0;" width="180" x="31" y="142.9059"/><image height="32" width="32" x="34" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAoElEQVR4Xu2WoQ2AMBBFWZMFMHjCAgTHBNWMgMehkQhCAoItSmp/GnpfwKXJiWea18tLxaVFWXdekwIP/sYCRAFVM/i2dxThDs6JIQpw4+S3/fLzsooIbriDc2KIA6QDWT+/gOO8X0E/BR0ggfHzC8AnR9BPQQdIYPz8AnDpIOinoANw5SLop6ADJDC+BViABVhAPgGqn1L1b/mXWIB6wANO/Z4cQbYDIAAAAABJRU5ErkJggg==" y="144.9059"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="10" x="66" y="173.6041">  </text><text fill="#5A6B86" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="38" x="76" y="173.6041">Expo</text></g><!--MD5=[c73962fbd14d26dae497e83e37621c36]
+cluster BackEnd--><g id="cluster_BackEnd"><rect fill="#FFFFFF" height="202" style="stroke:#5A6B86;stroke-width:1.0;" width="191" x="563" y="73.9059"/><image height="32" width="32" x="566" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAoElEQVR4Xu2WoQ2AMBBFWZMFMHjCAgTHBNWMgMehkQhCAoItSmp/GnpfwKXJiWea18tLxaVFWXdekwIP/sYCRAFVM/i2dxThDs6JIQpw4+S3/fLzsooIbriDc2KIA6QDWT+/gOO8X0E/BR0ggfHzC8AnR9BPQQdIYPz8AnDpIOinoANw5SLop6ADJDC+BViABVhAPgGqn1L1b/mXWIB6wANO/Z4cQbYDIAAAAABJRU5ErkJggg==" y="75.9059"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="10" x="598" y="104.6041">  </text><text fill="#5A6B86" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="68" x="608" y="104.6041">BackEnd</text></g><!--MD5=[a4bf4348b8b7222e720899c7dce428c1]
+cluster FastAPI--><g id="cluster_FastAPI"><rect fill="#FFFFFF" height="119" style="stroke:#5A6B86;stroke-width:1.0;" width="143" x="587" y="132.9059"/><image height="32" width="32" x="590" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAoElEQVR4Xu2WoQ2AMBBFWZMFMHjCAgTHBNWMgMehkQhCAoItSmp/GnpfwKXJiWea18tLxaVFWXdekwIP/sYCRAFVM/i2dxThDs6JIQpw4+S3/fLzsooIbriDc2KIA6QDWT+/gOO8X0E/BR0ggfHzC8AnR9BPQQdIYPz8AnDpIOinoANw5SLop6ADJDC+BViABVhAPgGqn1L1b/mXWIB6wANO/Z4cQbYDIAAAAABJRU5ErkJggg==" y="134.9059"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="10" x="622" y="163.6041">  </text><text fill="#5A6B86" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="62" x="632" y="163.6041">FastAPI</text></g><!--MD5=[cb3d66c929489a99ecf6c8633ae21583]
+entity react--><g id="elem_react"><rect fill="#FFFFFF" height="52" style="stroke:#5A6B86;stroke-width:0.5;" width="148" x="47" y="193.9059"/><image height="32" width="32" x="57" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAoElEQVR4Xu2WoQ2AMBBFWZMFMHjCAgTHBNWMgMehkQhCAoItSmp/GnpfwKXJiWea18tLxaVFWXdekwIP/sYCRAFVM/i2dxThDs6JIQpw4+S3/fLzsooIbriDc2KIA6QDWT+/gOO8X0E/BR0ggfHzC8AnR9BPQQdIYPz8AnDpIOinoANw5SLop6ADJDC+BViABVhAPgGqn1L1b/mXWIB6wANO/Z4cQbYDIAAAAABJRU5ErkJggg==" y="203.9059"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="8" x="89" y="232.6041">  </text><text fill="#5A6B86" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="88" x="97" y="232.6041">ReactNative</text></g><!--MD5=[c63e38b27c614cdfbb78b5d6e5380c16]
+entity Py--><g id="elem_Py"><rect fill="#FFFFFF" height="52" style="stroke:#5A6B86;stroke-width:0.5;" width="111" x="603" y="183.9059"/><image height="32" width="32" x="613" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAoElEQVR4Xu2WoQ2AMBBFWZMFMHjCAgTHBNWMgMehkQhCAoItSmp/GnpfwKXJiWea18tLxaVFWXdekwIP/sYCRAFVM/i2dxThDs6JIQpw4+S3/fLzsooIbriDc2KIA6QDWT+/gOO8X0E/BR0ggfHzC8AnR9BPQQdIYPz8AnDpIOinoANw5SLop6ADJDC+BViABVhAPgGqn1L1b/mXWIB6wANO/Z4cQbYDIAAAAABJRU5ErkJggg==" y="193.9059"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="8" x="645" y="222.6041">  </text><text fill="#5A6B86" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="653" y="222.6041">Python</text></g><!--MD5=[23555a4f9c8a267cdfd801ad53ceaf15]
+entity browser--><g id="elem_browser"><rect fill="#FFFFFF" height="116.5938" rx="2.5" ry="2.5" style="stroke:#FF9900;stroke-width:0.5;" width="95" x="73.5" y="302.4059"/><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="75" x="83.5" y="327.2574">browser</text><image height="64" width="64" x="89" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAACzElEQVR4Xu2bP4jUQBTG479C/IvYCAfuZeZ2lXUnc5fiWG8mppADG/XAE0VELc7GWi21tBAUO0XURlF7GwvF1kqwEbQREQsVUWRREPXNmMTdl+jeLhY74/vgg2VmMuz3y7xJAkkQkEg9StN0+YTcLnmkDjOZHPHBXOh9bCrlOGtJYaTqPNJPWKR/eOrbY+32Spzbypx5z8Nbw2q4gLNb8SiZzAeFUj/Cy8htq+OQ63WW7y3ObmXrJKcUJftxv+uC8r5anOB45zrc3wsAfps2UxZM6pPQdt01QzlfY62ZXXk+JvQVluWryXT97+SZqgBk4W2bo/5Wa6VbbJahAMCuWTGpWxb6gM0yHAB1J2/D40dZsHL35v87FOqgbSMABIAAEAACQAAIAAEgAASAABAAAkAACAA+hgAQAAJAAAgAASAABIAAEIA/AAA/dMfqKfsnAKS6mLe5ai5VarMMA2BzrDcBzQfQ9hVP7IA/mBOY5xsKgE/qD2BS7+iidymO4xV4jKsaa7Y3QKbHWbaOefEDjwmazXQ1j/R7tIz8s9D3cPZCUO9zMKhTOsgXC/2yIZJxnLtH5l1B8GlW8d6Nu04uc5mc4NPTa3FeUpXMfgA7Zc0nB/Pzy3DOkupxuhGWy12Ga8cPd+Cu8AzEXIpz51rCI3W/4kC/LPUpHNxqYirZ2jXwGWwaZw0xH8yj5Bxk+pRle4WzW2WXQAsglMkh3O+64BJ4I8/XaMyswf0jeys8vk2L8svPizMXye4gq/n+t8IjCMDcsoaR/txVmgO7eLJ1EYAQs6twoIEt9YKZiwC4CMC+rh/pj6VQA1nNmbmcBGBkPnbCm9tiDZe/2WKevgCk3lNQk/oo7nddXKibWb7vprRwf1BvqbBr6bxhpScqp22+e/jCfp3cFzh7Iei8ZQd5bHjUP4ZzFzLf1MGmcR7q5R0+0AM//2t4Eon0X+onEurnM5YeQjkAAAAASUVORK5CYII=" y="331.0309"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="58" x="92" y="406.1695">[browser]</text></g><!--MD5=[c2655ce3bf1e7fc41951504c61ef49ec]
+entity firebase--><g id="elem_firebase"><rect fill="#FFFFFF" height="116.5938" rx="2.5" ry="2.5" style="stroke:#FF9900;stroke-width:0.5;" width="95" x="332.5" y="138.4059"/><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="75" x="342.5" y="163.2574">firebase</text><image height="64" width="64" x="348" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAEeElEQVR4Xu2Z6U8VVxTA/V9stU1dq63KB7A8NxRUWgG3KKWgaZ7RqlipRVwQNYq40ICCCgkudTc2hpYSXENQsVgqUoSi7CoubWQREI6eYx5pzhlx5s17jzF3bvL7cs598+79zczdZsDA4f6gMgN4QDVsATygGrYAHlANWwAPqIYtgAdUwxbAA6phC+AB1bAF8IBq2AJ4wFOM8g+GtZt2QF7BZbhfWw+u0tj0EK4WFcOO1EyYMH2e+J2v8biA4X5BkJF9BDo7O3s73fz4KRTdKIFrxSVQ19DUG+/p6YH8C1fBETJXXMdXeFRASMQ3UFvXQJ2rqW2AxG17wG/il6IePh0rfkiEW6VlVPfFiw5ISEoR9XyBxwSEL3RCa2sbdHd3Q1pmDnw02iHqaLEkNgGePH1GItIPHBJ5b+MRAfgIP29pga6uLnCuXCvy7yJgagTcq6kjCes27xR5b2JawKCR4+H2nQpqfGx8ksjrBV8VHB9QYkSkU+S9hWkB8YnJ1Pkzv/wmckbBMaSjoxPKyu/Ch6/FYmzmnBhYFb8ZlsdthMDgOeI3ZjEl4IMRAVBX3whtbe0wzhEq8u6wOz2LhOI44nqyXOXl6/Hl1LlcGB0QIn7nLqYEzIteRg07fua8yLnLkDGT4Nm//9F18XXI+fk0RC9ZDVHOVXD2fB7FyyuqPCbBlAC8S1giv40VOTPsSjtAr0LM0jiRw9cB1w+5eRdEzh1MCbhSeJ0aM8xvisiZBdcKPObi6Mlz9L/B4VEiZxRTAioqq2kO53FvMzl0AT15W1PSRc4obgsYOm4yLXFxnc9z3gZnCBwfrhffgqCvFoq8EQwLwLV+ZvZRaGtvp7uAUxav4wtu/FFK/4+l8p97NE3yOnowJABXfK4VW33jA0hOzaBVHK/nCz7+zEHrhi0pabTvwJL7+0X45POJom5f6BYwJnAGdRpL1qETutf6vgDbsi/rCLUNB2ZcnfI6b0O3AJx2sOBWl+eswvY9GdRGPGvgubehS8C0sK/pwjjqD/r0C5G3CrgyxcMW3JX2NY3+H10C9h48TALi1m0VOauB23Is67fsEjktdAnA0xwsWocbVgOfgkfNT+DX/Esip4UuAXerqumgg8etCt6wv8r+FnEtdAnAqQ/P+Hjcqly8UkRrAx7XQpeA9+kVQHCwLi4pFXEtdAk4mHOMBKz8cZPIWQ08l8CNEm6YeE4LXQJC5y4iAX/eLu89qbEq6fvfbNEXL1sjclroEoAUXrtJF05K/knkrML02dF0xI4btMGjAkVeC90C8CsOnvzibLBmwzaR72+Cw6LgYfNjOkgxcqiqWwAyP+a73l0gfvJC47yOrxnrmAmp+7Kp47hFxg8uvE5fGBKATJ0VSaOsqzQ9eESzRH9wp6KSOo2lqrqGxire3ndhWACCA+HS79dDweVCOhHur9LS0krfFp2xCW4Pzm4J4AwZOwkCgsJ9iv+UMNEOd/CIgPcZWwAPqIYtgAdUwxbAA6phC+AB1bAF8IBq2AJ4QDVsATygGsoLeAWRbfVAJnTWNgAAAABJRU5ErkJggg==" y="167.0309"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="57" x="351.5" y="242.1695">[firebase]</text></g><!--MD5=[c0b19ca7156789f04702fbd5fde916b6]
+link browser to react--><g id="link_browser_react"><path d="M121,302.3339 C121,284.9479 121,266.5649 121,251.5819 " fill="none" id="browser-to-react" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="121,246.2239,117,255.2239,121,251.2239,125,255.2239,121,246.2239" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="57" x="82" y="278.7945">1.request</text></g><!--MD5=[4f5835f18b4887706b8b17d192f67b65]
+link react to firebase--><g id="link_react_firebase"><path d="M195.302,213.3459 C237.473,209.5719 289.436,204.9209 327.322,201.5309 " fill="none" id="react-to-firebase" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="332.338,201.0819,323.0163,197.9028,327.358,201.529,323.7318,205.8707,332.338,201.0819" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="37" x="256" y="201.0445">2.Auth</text></g><!--MD5=[c1787119b4037189a587592a96e5e05f]
+link firebase to react--><g id="link_firebase_react"><path d="M332.405,219.4489 C321.374,223.7769 309.474,227.6579 298,229.9059 C266.485,236.0789 231.237,235.5119 200.61,232.6929 " fill="none" id="firebase-to-react" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="195.342,232.1809,203.9136,237.0315,200.3186,232.6638,204.6863,229.0689,195.342,232.1809" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="45" x="252" y="227.0445">3.token</text></g><!--MD5=[e3c8b4ef062e68947c3d2c9b91adeaea]
+link react to Py--><g id="link_react_Py"><path d="M148.393,193.6279 C185.011,159.2239 255.004,100.6269 328,77.9059 C439.187,43.2969 565.76,131.7019 624.424,180.3739 " fill="none" id="react-to-Py" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="628.529,183.8069,624.1922,174.9642,624.6939,180.5988,619.0593,181.1004,628.529,183.8069" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="102" x="329" y="67.0445">4.ApiCall &amp; token</text></g><!--MD5=[a91df9e06a01da9a811357bb3eba428d]
+link Py to react--><g id="link_Py_react"><path d="M602.788,234.6049 C557.937,253.4279 492.257,277.7789 432,287.9059 C386.417,295.5669 373.636,295.2429 328,287.9059 C280.119,280.2079 228.288,263.0499 188.594,247.8959 " fill="none" id="Py-to-react" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="183.814,246.0589,190.7792,253.0221,188.481,247.8531,193.65,245.5549,183.814,246.0589" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="67" x="346.5" y="285.0445">8.result api</text></g><!--MD5=[e93d76e8026ba40e6ea822cce474b93b]
+link Py to firebase--><g id="link_Py_firebase"><path d="M602.626,207.3259 C553.241,205.0039 481.199,201.6169 432.787,199.3409 " fill="none" id="Py-to-firebase" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="427.592,199.0969,436.3947,203.5141,432.5865,199.3311,436.7695,195.5229,427.592,199.0969" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="45" x="482" y="197.0445">5.token</text></g><!--MD5=[676bfd13d6880c7aa92a0cfca1a24331]
+link firebase to Py--><g id="link_firebase_Py"><path d="M427.754,217.4079 C438.778,221.3429 450.634,224.8689 462,226.9059 C507.092,234.9879 558.75,229.8899 597.637,223.2279 " fill="none" id="firebase-to-Py" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="602.796,222.3219,593.2393,219.9406,597.8715,223.1876,594.6245,227.8198,602.796,222.3219" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="83" x="463" y="224.0445">7.result verify</text></g><!--MD5=[3caab5339b3853778b5ebd0ee650a693]
+link firebase to firebase--><g id="link_firebase_firebase"><path d="M360.501,138.0129 C360.602,118.7469 367.102,103.4059 380,103.4059 C391.689,103.4059 398.123,116.0049 399.302,132.7069 " fill="none" id="firebase-to-firebase" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="399.499,138.0129,403.162,128.8705,399.3133,133.0163,395.1675,129.1676,399.499,138.0129" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="83" x="338.5" y="95.5445">6.token verify</text></g><!--MD5=[3abfcdf6588b067dceefaad95e69afe1]
+@startuml
+title RecoMenue構成
+
+' Alt + D でプレビュー
+' Ctrl + Shift + P　＆PlantUML:ExportCurrentDiagram
+' AWS:https://github.com/awslabs/aws-icons-for-plantuml
+' Azure:https://github.com/plantuml-stdlib/Azure-PlantUML
+!define AzurePuml https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/release/2-1/dist
+!define AWSPuml https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v13.1/dist
+!include AWSPuml/AWSCommon.puml
+!include AWSPuml/General/Client.puml 
+!include AWSPuml/GroupIcons/Cloud.puml 
+!include AWSPuml/Groups/CorporateDataCenter.puml 
+!include AWSPuml/Groups/ServerContents.puml 
+!includeurl AzurePuml/AzureCommon.puml
+
+' ★他にどのような指定ができる？
+left to right direction
+
+' しかくの定義方法
+hide stereotype
+
+' ブラウザ
+Client(browser,"browser","browser")
+
+' kyodoGW
+ServerContentsGroup(FrontEnd,"FrontEnd"){
+    ServerContentsGroup(ex,"Expo"){
+        ServerContentsGroup(react,"ReactNative"){
+        }
+    }    
+}
+
+ServerContentsGroup(BackEnd,"BackEnd"){
+    ServerContentsGroup(FastAPI,"FastAPI"){
+        ServerContentsGroup(Py,"Python"){
+        }
+    }    
+}
+' Salesfroce
+Cloud(firebase,"firebase","firebase")
+
+browser -> react:1.request
+react - -> firebase:2.Auth
+firebase - -> react:3.token
+react - - - -> Py:4.ApiCall & token
+Py - - - -> firebase:5.token
+firebase - -> firebase:6.token verify
+firebase - -> Py:7.result verify
+Py -> react:8.result api
+@enduml
+
+@startuml
+title RecoMenue構成
+
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam PackageTitleAlignment Left
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam rectangle {
+    StereotypeFontSize 12
+}
+
+skinparam Arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sprite $Client [64x64/16z] {
+xTT55WCm24LHuiRV_tBhxb1lkVENaqa4-WG-AhXDtQ5IQQb3gIno3xGebmPuqKSWaa85TlfSHS91do7az_iAeNZKq-tYethhhRVUUkkjRxVhHts1KDZlNMC8
+SA7zNc7T1w2GdEjWMc0eDLg839NXQCddAbSIFOvJsCOL6fnfgK4fh_-l8yiLndZO_rK-8aXxnhuex74WFQ1_vVvTt1CUTtyuO5G5nbWlf9HegJ0KnYmtKm
+}
+
+
+skinparam rectangle<<Client>> {
+    BackgroundColor #FFFFFF
+    BorderColor #FF9900
+}
+sprite $Cloud [64x64/16z] {
+xPHLOY0X341VWjlzZxjRLvWmRJzvun8d6N_AuN0uzEG5nCNs8-d8ex0JmD_NK0L9Js8zAwIxuX3xsrCMuYtn1ldJizppGD_4tnNKVV64_nwGFfnotigayFst
+I5G0tqtnGfZKKo2Kub5JGQIitsQy9U-OcdXv6SnCgbpMrYfbbqlvWQl6kbSZF3GllHF4QBXUa-3xIZpqhUPqOuRVRPGu_R4QgyCgSYJlTtYQATsVDE9dVJks
+SJhHUKl-T_xhf89XFt-DCAsV8MOqkIFjba_wUl3QugjvMi1NC_QuDbCLn5sYe1SsiiF0Mp7sTiNRRuV3uV0V
+}
+
+
+skinparam rectangle<<Cloud>> {
+    BackgroundColor #FFFFFF
+    BorderColor #FF9900
+}
+sprite $CorporateDataCenter [64x64/16z] {
+xPN50O0m3003RMp_WN5trzm7FQGnFG73O6n0wtreGUlza2iGSBtlwds-pKUtptVmRr_uwlXP_0bJshx355waGuwlVO6SS8cFW9oYAL9kKe9WcSywp7L-4VVM
+TerVh5jh-ok_Y7jxQ_6_nBVuM_pxt_-YzKSUPfbFC4guOduEmNeiXX43
+}
+
+
+  skinparam rectangle<<CorporateDataCenterGroup>> {
+    StereotypeFontSize 0
+    BackgroundColor #FFFFFF
+    BorderColor #5A6B86
+    BorderStyle plain
+    Shadowing false
+    RoundCorner 0
+  }
+sprite $ServerContents [64x64/16z] xPP30i0m4033nVy_t7DjpzoAP0q_5W2f8yYoyp6C41UUZpf8N7n-vFsVpeSEQy_d3klEu__SuThuuN_jSBN_QuVzzdEUyvpdFEVtxu_xzzVz-_D-01e
+
+
+  skinparam rectangle<<ServerContentsGroup>> {
+    StereotypeFontSize 0
+    BackgroundColor #FFFFFF
+    BorderColor #5A6B86
+    BorderStyle plain
+    Shadowing false
+    RoundCorner 0
+  }
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam rectangle {
+    StereotypeFontSize 12
+}
+
+skinparam Arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+
+
+
+
+
+
+
+left to right direction
+
+hide stereotype
+
+rectangle "==browser\n<img data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAAEZ0FNQQAAsY58+1GTAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAA6RJREFUeNrtm0toE1EUhu+5mRhtrI8QxRfYGrXFPjUgSI0OokuhLooI4gNdiV0I7l2Iiu5c6FIXIj4q6EIUimBIUsVFpUkoWJkErYqC0tZHLUkz93imzWh0atR0YXNzfyhz7zCE/N85574yZUypsgW/3tB1XXszkm1E5E0InEthUuAoaq6+1NOwURTAqpbNazmDm8hYi6QBv5Gpyh18/fjxmH2DF0ZecvOWds8e1U4X3tDsxuth0WSbR2ARYHBJHt/CQ6ZOUGMZedtL12MOAAwxYBcER7hgxCM3ZQo9lfdGCuohavpXBbfPT/c++PgzgEIhCrssXo2YxxiydWU4upML0ZVK9tyf6CMIO8DCzIEzA6ZQ3vy5cow4TqQy31fTpDe+SIaf/e45/odPCZZ55rtcYLYWe0D7A0ewZ8pUPArl4jrQGmqn4N2ejCEW/d5SLHSmIwVAAVAAFAAFQAFQABQABUABUAAUAAVAAVAAFAAFQAFQABQABUABUAAqR9rfPhhoCT0sG1eI/ilefikBALC3k78yTkgvn7j+MM85eSi1BHIuOEs4rchnyzC7RxjgeaMvFi45A172Ri162ypjEHSx999LCNiWYDDolsXkioZNPqoK+2fysZoF7IsjAzxZV29GM4eo5H3U7RzJVXXSwCdfyJE9DIfDOUcG9PeHvyDDwxYhafMd2aDG4OjUw2Ve1ruCdNkFDOrlcQ5ZAJZgnswV48mTT0ypSAZYamjQ5466mV8moy/WLHrFurrMogDWBnW/mRMXqVg6JAz2GCKeTSdiJ6ktfkx+BTAWLl5xh647Jc12NwDovqUrvw6/G+xxTINrNmypFybuyHcH6OHrQgiUYrEDfA7NcEeoWU0zQSddzzkACFPU2xWBACdTfZGrMoU/0BxaQvb2W+uiurq26oGBns8/AQAEl/1GHReYmSlfvLYx1Mw1WF/SCC/YsJGI3M3X/Pf9TGaO2/XP2+H/Ietd5cFh8xFtb70lrXsooKubQx1GInqrLA9EhoZmeciDdzqfgZwtLHk7XAma0QB8vqw1Fk1v6Yr4oeTzgP8ta9cW2KAHmRBtJQ2CyN4a8Wj33wHgbNw+/qK6mTtTIOT/08uY/pofvTg5zeM8MWvcAYCbmDQ52NvGM4GW0FaJSp0WQqw9TyKdiHePOgA8T8bSgdbQNTK/h7pL6O+AlEcCiKcK+4V7AeatXX5PG4fZNIHWEakqybwbtBw+no7HLqtDACUlJVvfAKe9JJ8ao3kKAAAAAElFTkSuQmCC{scale=1}>\n//<size:12>[browser]</size>//" <<Client>> as browser
+
+rectangle "<img data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAAEZ0FNQQAAsY58+1GTAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAUVJREFUeNrt2q9rgkEcx/HbEHEMi0G0KMIsMoS1JfvGosUfzSJsYBer+wsMFtNEi03Z+pNmElQsG8hWlAWLDMUyeeqC5bmTr9z70+94nhfPfR6ee+4s91j/UxbnXFkeAAAAAAAAALA4Pp2T3VxfqeDlhdELXv9u1Gj6KRMge59RiVjEKMD8eykXwM3iZ6Va3TcjN1/K3cleAm62252afXwZAXDnpgQBAEB2B/xPp1H1ND7/9HzaAM772O4noNke0AEAAGBxB5SLD6I7xDhA5jZtN4Dp9zgdAAAAsjsglYx7Gm9qb+FoALVKwe6PoeZL3+4l4AwnlCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAm2jdFAwG/538Bh+bWfVZQO0A0HPL8L+BQ3KOyYgF6r85RDkuLBdB5iJkSBAAAAAAAAAAATGcP7otEzSVqfiwAAAAASUVORK5CYII={scale=0.5}>  <color:#5A6B86>FrontEnd</color>" as FrontEnd <<ServerContentsGroup>>{
+    rectangle "<img data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAAEZ0FNQQAAsY58+1GTAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAUVJREFUeNrt2q9rgkEcx/HbEHEMi0G0KMIsMoS1JfvGosUfzSJsYBer+wsMFtNEi03Z+pNmElQsG8hWlAWLDMUyeeqC5bmTr9z70+94nhfPfR6ee+4s91j/UxbnXFkeAAAAAAAAALA4Pp2T3VxfqeDlhdELXv9u1Gj6KRMge59RiVjEKMD8eykXwM3iZ6Va3TcjN1/K3cleAm62252afXwZAXDnpgQBAEB2B/xPp1H1ND7/9HzaAM772O4noNke0AEAAGBxB5SLD6I7xDhA5jZtN4Dp9zgdAAAAsjsglYx7Gm9qb+FoALVKwe6PoeZL3+4l4AwnlCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAm2jdFAwG/538Bh+bWfVZQO0A0HPL8L+BQ3KOyYgF6r85RDkuLBdB5iJkSBAAAAAAAAAAATGcP7otEzSVqfiwAAAAASUVORK5CYII={scale=0.5}>  <color:#5A6B86>Expo</color>" as ex <<ServerContentsGroup>>{
+        rectangle "<img data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAAEZ0FNQQAAsY58+1GTAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAUVJREFUeNrt2q9rgkEcx/HbEHEMi0G0KMIsMoS1JfvGosUfzSJsYBer+wsMFtNEi03Z+pNmElQsG8hWlAWLDMUyeeqC5bmTr9z70+94nhfPfR6ee+4s91j/UxbnXFkeAAAAAAAAALA4Pp2T3VxfqeDlhdELXv9u1Gj6KRMge59RiVjEKMD8eykXwM3iZ6Va3TcjN1/K3cleAm62252afXwZAXDnpgQBAEB2B/xPp1H1ND7/9HzaAM772O4noNke0AEAAGBxB5SLD6I7xDhA5jZtN4Dp9zgdAAAAsjsglYx7Gm9qb+FoALVKwe6PoeZL3+4l4AwnlCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAm2jdFAwG/538Bh+bWfVZQO0A0HPL8L+BQ3KOyYgF6r85RDkuLBdB5iJkSBAAAAAAAAAAATGcP7otEzSVqfiwAAAAASUVORK5CYII={scale=0.5}>  <color:#5A6B86>ReactNative</color>" as react <<ServerContentsGroup>>{
+        }
+    }    
+}
+
+rectangle "<img data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAAEZ0FNQQAAsY58+1GTAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAUVJREFUeNrt2q9rgkEcx/HbEHEMi0G0KMIsMoS1JfvGosUfzSJsYBer+wsMFtNEi03Z+pNmElQsG8hWlAWLDMUyeeqC5bmTr9z70+94nhfPfR6ee+4s91j/UxbnXFkeAAAAAAAAALA4Pp2T3VxfqeDlhdELXv9u1Gj6KRMge59RiVjEKMD8eykXwM3iZ6Va3TcjN1/K3cleAm62252afXwZAXDnpgQBAEB2B/xPp1H1ND7/9HzaAM772O4noNke0AEAAGBxB5SLD6I7xDhA5jZtN4Dp9zgdAAAAsjsglYx7Gm9qb+FoALVKwe6PoeZL3+4l4AwnlCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAm2jdFAwG/538Bh+bWfVZQO0A0HPL8L+BQ3KOyYgF6r85RDkuLBdB5iJkSBAAAAAAAAAAATGcP7otEzSVqfiwAAAAASUVORK5CYII={scale=0.5}>  <color:#5A6B86>BackEnd</color>" as BackEnd <<ServerContentsGroup>>{
+    rectangle "<img data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAAEZ0FNQQAAsY58+1GTAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAUVJREFUeNrt2q9rgkEcx/HbEHEMi0G0KMIsMoS1JfvGosUfzSJsYBer+wsMFtNEi03Z+pNmElQsG8hWlAWLDMUyeeqC5bmTr9z70+94nhfPfR6ee+4s91j/UxbnXFkeAAAAAAAAALA4Pp2T3VxfqeDlhdELXv9u1Gj6KRMge59RiVjEKMD8eykXwM3iZ6Va3TcjN1/K3cleAm62252afXwZAXDnpgQBAEB2B/xPp1H1ND7/9HzaAM772O4noNke0AEAAGBxB5SLD6I7xDhA5jZtN4Dp9zgdAAAAsjsglYx7Gm9qb+FoALVKwe6PoeZL3+4l4AwnlCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAm2jdFAwG/538Bh+bWfVZQO0A0HPL8L+BQ3KOyYgF6r85RDkuLBdB5iJkSBAAAAAAAAAAATGcP7otEzSVqfiwAAAAASUVORK5CYII={scale=0.5}>  <color:#5A6B86>FastAPI</color>" as FastAPI <<ServerContentsGroup>>{
+        rectangle "<img data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAAEZ0FNQQAAsY58+1GTAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAUVJREFUeNrt2q9rgkEcx/HbEHEMi0G0KMIsMoS1JfvGosUfzSJsYBer+wsMFtNEi03Z+pNmElQsG8hWlAWLDMUyeeqC5bmTr9z70+94nhfPfR6ee+4s91j/UxbnXFkeAAAAAAAAALA4Pp2T3VxfqeDlhdELXv9u1Gj6KRMge59RiVjEKMD8eykXwM3iZ6Va3TcjN1/K3cleAm62252afXwZAXDnpgQBAEB2B/xPp1H1ND7/9HzaAM772O4noNke0AEAAGBxB5SLD6I7xDhA5jZtN4Dp9zgdAAAAsjsglYx7Gm9qb+FoALVKwe6PoeZL3+4l4AwnlCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAm2jdFAwG/538Bh+bWfVZQO0A0HPL8L+BQ3KOyYgF6r85RDkuLBdB5iJkSBAAAAAAAAAAATGcP7otEzSVqfiwAAAAASUVORK5CYII={scale=0.5}>  <color:#5A6B86>Python</color>" as Py <<ServerContentsGroup>>{
+        }
+    }    
+}
+rectangle "==firebase\n<img data:image/png;base64,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{scale=1}>\n//<size:12>[firebase]</size>//" <<Cloud>> as firebase
+
+browser -> react:1.request
+react - -> firebase:2.Auth
+firebase - -> react:3.token
+react - - - -> Py:4.ApiCall & token
+Py - - - -> firebase:5.token
+firebase - -> firebase:6.token verify
+firebase - -> Py:7.result verify
+Py -> react:8.result api
+@enduml
+
+PlantUML version 1.2022.10beta2(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

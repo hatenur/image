@@ -1,0 +1,53 @@
+@startuml
+
+title RecoMenue構成
+
+' Alt + D でプレビュー
+' Ctrl + Shift + P　＆PlantUML:ExportCurrentDiagram
+' AWS:https://github.com/awslabs/aws-icons-for-plantuml
+' Azure:https://github.com/plantuml-stdlib/Azure-PlantUML
+!define AzurePuml https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/release/2-1/dist
+!define AWSPuml https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v13.1/dist
+!include AWSPuml/AWSCommon.puml
+!include AWSPuml/General/Client.puml 
+!include AWSPuml/GroupIcons/Cloud.puml 
+!include AWSPuml/Groups/CorporateDataCenter.puml 
+!include AWSPuml/Groups/ServerContents.puml 
+!includeurl AzurePuml/AzureCommon.puml
+
+' ★他にどのような指定ができる？
+left to right direction
+
+' しかくの定義方法
+hide stereotype
+
+' ブラウザ
+Client(browser,"browser","browser")
+
+' kyodoGW
+ServerContentsGroup(FrontEnd,"FrontEnd"){
+    ServerContentsGroup(ex,"Expo"){
+        ServerContentsGroup(react,"ReactNative"){
+        }
+    }    
+}
+
+ServerContentsGroup(BackEnd,"BackEnd"){
+    ServerContentsGroup(FastAPI,"FastAPI"){
+        ServerContentsGroup(Py,"Python"){
+        }
+    }    
+}
+' Salesfroce
+Cloud(firebase,"firebase","firebase")
+
+browser -> react:1.request
+react --> firebase:2.Auth
+firebase --> react:3.token
+react ----> Py:4.ApiCall & token
+Py ----> firebase:5.token
+firebase --> firebase:6.token verify
+firebase --> Py:7.result verify
+Py -> react:8.result api
+
+@enduml
