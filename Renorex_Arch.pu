@@ -1,0 +1,99 @@
+@startuml
+
+title Ranorex構成
+
+' Alt + D でプレビュー
+' Ctrl + Shift + P　＆PlantUML:ExportCurrentDiagram
+' AWS:https://github.com/awslabs/aws-icons-for-plantuml
+' Azure:https://github.com/plantuml-stdlib/Azure-PlantUML
+!define AzurePuml https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/release/2-1/dist
+!define AWSPuml https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v14.0/dist
+!include AWSPuml/AWSCommon.puml
+
+!include AWSPuml/General/Client.puml 
+!include AWSPuml/General/Gear.puml 
+!include AWSPuml/General/GitRepository.puml 
+!include AWSPuml/General/SourceCode.puml 
+!include AWSPuml/General/Toolkit.puml 
+!include AWSPuml/GroupIcons/Cloud.puml 
+!include AWSPuml/Groups/CorporateDataCenter.puml 
+!include AWSPuml/Groups/ServerContents.puml 
+!include AWSPuml/Groups/AvailabilityZone.puml 
+!include AWSPuml/Groups/GenericAlt.puml 
+!include AWSPuml/Groups/Generic.puml 
+!include AWSPuml/Groups/SecurityGroup.puml 
+' !includeurl AzurePuml/AzureCommon.puml
+
+' ★他にどのような指定ができる？
+left to right direction
+
+' しかくの定義方法
+hide stereotype
+
+AvailabilityZoneGroup(AA,"test"){
+
+}
+GenericGroup(GG,"GG"){
+
+}
+
+GenericAltGroup(BB,"test"){
+
+}
+SecurityGroupGroup(CCC,"aaa"){
+    
+}
+CorporateDataCenterGroup(RDC,"RemoteDataCenter"){
+    ' VDI
+    GenericAltGroup(RPA005,"VDI RPA005"){
+        Client(s05,"RanorexStudio","テストスクリプト作成")
+        ' AutoMtion or Browser image
+        Gear(g5,"Runtime Ranorex","テストスクリプトの実行")
+
+    }
+    Client(RPA007,"VDI","RPA007")
+    Client(RPA008,"VDI","RPA008")
+    Client(RPA009,"VDI","RPA009")
+    Client(RPA010,"VDI","RPA010")
+
+    ' LicencServer & SVN
+    ServerContentsGroup(UT50,"UT50"){
+        GenericAltGroup(LicenceServer,"RanorexLicenceServer"){
+            GenericGroup(LicenceFileRDC,"PremiumLicence 1~5"){
+
+            }
+        }
+        GenericAltGroup(SVN,"SVNServer"){
+            SourceCode(TestScript,"TestScript","Ranorexのスクリプト")
+      }
+    }
+}
+CorporateDataCenterGroup(Presoft,"ChinaLocal"){
+    Client(Mac,"Mac","スマホテスト用")
+    ServerContentsGroup(UT50M,"RanorexLicenceServer(Mac)"){
+        GenericGroup(LicenceFileMac,"PremiumLicence 1"){
+
+        }
+    }
+}
+
+' Salesfroce
+Cloud(firebase,"firebase","firebase")
+
+RPA005--UT50
+RPA007--UT50
+RPA008--UT50
+RPA009--UT50
+RPA010--UT50
+Mac--UT50M
+
+browser -> react:1.request
+react --> firebase:2.Auth
+firebase --> react:3.token
+react ----> Py:4.ApiCall & token
+Py ----> firebase:5.token
+firebase --> firebase:6.token verify
+firebase --> Py:7.result verify
+Py -> react:8.result api
+
+@enduml
